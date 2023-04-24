@@ -1,4 +1,4 @@
-# To-Do-List-App
+# TaskApp
 
 A simple app using HTML, CSS, and JavaScript.
 <br>
